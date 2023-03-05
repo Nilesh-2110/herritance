@@ -12,3 +12,5 @@ class Child(Parent1, Parent2): #multiple inheritance
 obj1 = Child()
 obj1.parent_info()
 obj1.parent_info_two()
+
+print('this is second commit')
